@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "U.S. Nuova Zorlesco 1975",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Nuova Zorlesco",
+  "start_url": "/https://fedeveloper95.github.io/New-Zorlesco-WebSite/",
+  "theme_color": "#ffffff",
+  "id": "U.S. Nuova Zorlesco 1975"
+}
